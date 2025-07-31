@@ -39,7 +39,7 @@ Favs: `Darling in the Franxx`, `Solo Leveling`, `Your Name`, `Code Geass`, `Atta
 ---
 
 ### 💬 Let's Connect!
-- 📷 [Instagram][https://www.instagram.com/ajnabi.log_06?igsh=MXFvbDh6dXh0Y3I2dg==]  
+- 📷 [Instagram](https://www.instagram.com/ajnabi.log_06?igsh=MXFvbDh6dXh0Y3I2dg==)
 - 💼 Portfolio coming soon...  
 - 🌐 Future Website: Jin-Woo Ajnabi 2.0
 
